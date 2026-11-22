@@ -18,7 +18,7 @@ This project helps HR teams understand and reduce employee attrition. It answers
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](screenshots/hr_analytics_dashboard.png)
+![HR Analytics Dashboard](hr_analytics_dashboard.png)
 
 ---
 
